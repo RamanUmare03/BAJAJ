@@ -11,3 +11,4 @@ unstructured
 pdfplumber
 faiss-cpu
 langchain_experimental
+rank_bm25
