@@ -10,3 +10,4 @@ langchain-groq
 unstructured
 pdfplumber
 faiss-cpu
+langchain_experimental
