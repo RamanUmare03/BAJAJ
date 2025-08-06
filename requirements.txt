@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-cohere
+langchain-groq
+unstructured
+pdfplumber
+faiss-cpu
