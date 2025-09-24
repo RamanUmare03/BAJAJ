@@ -15,7 +15,7 @@ It is designed with scalability in mind, supporting *modular execution, configur
 ---
 
 ## 📁 Project Structure
-bash
+```bash
 BAJAJ_UPDATED/
 │
 ├── code.py             # Main entry point for running the project
@@ -35,7 +35,7 @@ BAJAJ_UPDATED/
 │   └── analysis.py     # Analysis/ML scripts
 │
 └── logs/               # Logs generated during execution
-
+```
 ---
 
 ## ⚡ Installation
