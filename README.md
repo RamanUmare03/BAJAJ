@@ -1,6 +1,6 @@
-# 🚀 BAJAJ_UPDATED
+# 🚀 BAJAJ_RAG
 
-*BAJAJ_UPDATED* is a Python-based project developed for *automated data handling, transformation, and analysis*.  
+*BAJAJ_RAG* is a Python-based project developed for *automated data handling, transformation, and analysis*.  
 It is designed with scalability in mind, supporting *modular execution, configurable environments, and reproducible results*.  
 
 ---
