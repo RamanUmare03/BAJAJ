@@ -41,23 +41,26 @@ BAJAJ_UPDATED/
 ## ⚡ Installation
 
 ### 1. Clone the repository:
-bash
+
+```bash
 git clone https://github.com/Nityam2004/BAJAJ_UPDATED.git
 cd BAJAJ_UPDATED
+```
 
 ---
 
 ### 2. Create and activate a virtual environment:
-bash
+```bash
 Copy code
 python -m venv venv
 # Activate:
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
-
+```
 ### 3. Install dependencies:
-bash
+```bash
 pip install -r requirements.txt
+```
 🛠 Tech Stack
 Python 3.8+
 
